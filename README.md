@@ -75,7 +75,7 @@ The Streamlit application will run locally in your browser and should launch aut
 
 In the screenshot below we can clearly see a blockchain consisting of several entries, and functional and validated side-bar options, as well as a confirmation that the blockchain is valid.
 
-![Baseline_Comp](/Resources/capture_ledger.png)
+!Ledger](./Resources/capture_ledger.png)
 
 
 ---
